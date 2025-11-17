@@ -1,19 +1,28 @@
 DeepSeek
-梁文锋
-
-谷歌
-google
+Qwen
 gemini
-deepmind
-
 chatgpt
-openai
+Grok
+Kimi
+GLM
+doubao
 
-claude
+
 Anthropic
+google
+openai
+谷歌
+智谱
 
-ai
-!gai
-人工智能
 
+claude code
+codex
+Copilot
+
+AI
+MCP
+LLM
+AI Agent
+AGI
+AI Coding
 
