@@ -1,12 +1,13 @@
+claude
 DeepSeek
 Qwen
 gemini
 chatgpt
+gpt
 Grok
 Kimi
 GLM
 doubao
-
 
 Anthropic
 google
@@ -17,7 +18,8 @@ openai
 
 claude code
 codex
-Copilot
+copilot
+cursor
 
 AI
 MCP
@@ -25,4 +27,6 @@ LLM
 AI Agent
 AGI
 AI Coding
-
+Spec-driven development
+spec-kit
+OpenSpec
